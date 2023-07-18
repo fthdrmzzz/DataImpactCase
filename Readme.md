@@ -20,8 +20,13 @@ Before running MyApp, ensure that you have the latest versions of the following 
 ## Running the Application
 
 First clone the repository:
-
+```
+git clone https://github.com/fthdrmzzz/DataImpactCase.git
+```
 Move into the repository directory:
+```
+cd DataImpactCase
+```
 
 ### Running via Docker
 
